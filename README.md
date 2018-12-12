@@ -5,11 +5,11 @@ Create the executable file by entering "make" into the command line
 Run the file by typing "./fractol" followed by either "julia", "mandelbrot", or "ship", to create each respective fractal
 
 Commands:
-← and → move the fractal right or left respectively
+'←' and '→' move the fractal right or left respectively
 
-↑ and ↓ move the fractal down or up respectively
+'↑' and '↓' move the fractal down or up respectively
 
-+ and - OR scroll wheel up/down zooms in and out
+'+' and '-' OR scroll wheel up/down zooms in and out
 
 "R" and "V" increase/decrease the red coloring in the fractal
 
