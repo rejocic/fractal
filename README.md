@@ -7,7 +7,7 @@ Run the file by typing "./fractol" followed by either "julia", "mandelbrot", or 
 Commands:
 ← and → move the fractal right or left respectively
 ↑ and ↓ move the fractal down or up respectively
-+ and - OR scroll wheel up/down zooms in and out
+'+' and - OR scroll wheel up/down zooms in and out
 "R" and "V" increase/decrease the red coloring in the fractal
 "G" and "F" increase/decrease the green coloring in the fractal
 "B" and "V" increase/decrease the blue coloring in the fractal
