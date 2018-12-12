@@ -9,7 +9,7 @@ Commands:
 
 ↑ and ↓ move the fractal down or up respectively
 
-'+' and - OR scroll wheel up/down zooms in and out
++ and - OR scroll wheel up/down zooms in and out
 
 "R" and "V" increase/decrease the red coloring in the fractal
 
