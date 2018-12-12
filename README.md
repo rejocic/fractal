@@ -19,4 +19,4 @@ Commands:
 
 (Julia only) move the mouse to change the constant values of the Julia fractal
 
-esc closes the window
+'esc' closes the window
