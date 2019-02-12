@@ -1,7 +1,7 @@
 # fractal
 A program to generate the Mandelbrot, Burning Ship, and Julia fractals
 
-Create the executable file by entering "make" into the command line
+Create the executable file by entering "make" into the command line.
 Run the file by typing "./fractol" followed by either "julia", "mandelbrot", or "ship", to create each respective fractal
 
 Commands:
