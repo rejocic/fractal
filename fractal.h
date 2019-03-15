@@ -22,7 +22,6 @@
 
 typedef struct		s_cords
 {
-	float			tmpx;
 	float			cx;
 	float			cy;
 	float			xcord;
